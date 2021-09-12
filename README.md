@@ -16,6 +16,4 @@ The main contributions are summarized as follows:
 
 # The Structure of DEGAN
 
-
-
-![structure_DEGAN](E:\论文\PR\latex\figs\structure_DEGAN.png)
+![structure_DEGAN](G:\github\GitHub\DE-GAN\fig\structure_DEGAN.png)
