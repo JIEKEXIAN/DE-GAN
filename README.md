@@ -17,3 +17,22 @@ The main contributions are summarized as follows:
 # The Structure of DEGAN
 
 ![structure_DEGAN](G:\github\GitHub\DE-GAN\fig\structure_DEGAN.png)
+
+# Getting Started
+
+## Requirements:
+
+This code was tested with Tensorflow 1.14 , Keras 2.2.4, CUDA 10.1, Python 3.7 Ubuntu 16.04
+
+* Install tensorflow 1.14
+
+* install keras 2.2.4
+
+  ### Clone this repo:
+
+  ```
+  git clone git@github.com:JIEKEXIAN/DE-GAN.git
+  cd DE-GAN
+  ```
+
+  
