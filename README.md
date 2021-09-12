@@ -35,4 +35,15 @@ This code was tested with Tensorflow 1.14 , Keras 2.2.4, CUDA 10.1, Python 3.7 U
   cd DE-GAN
   ```
 
+  ## Training
   
+  ```
+  python train.py
+  ```
+  
+  notice: you need to set train dataset path, valid dataset path and save path.
+  
+  ## Pretrained Models
+
+It will be relased as soon.
+
