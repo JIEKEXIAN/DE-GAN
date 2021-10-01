@@ -45,5 +45,8 @@ This code was tested with Tensorflow 1.14 , Keras 2.2.4, CUDA 10.1, Python 3.7 U
   
   ## Pretrained Models
 
-It will be relased as soon.
+DE-GAN's model parameters have been put into Baidu web disk.You can download the test at this link.
+
+link：https://pan.baidu.com/s/1dxqDb_CVW_OBRwQCfqIECA 
+code：4ini
 
