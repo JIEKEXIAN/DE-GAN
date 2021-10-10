@@ -27,7 +27,7 @@ class DEGAN:
         self.discriminator_Cwl = Code_l_discriminator()
         self.discriminator_CMw = Code_M_discriminator()
         self.args = args
-        self.model = self.LIF_model()
+        self.model = self.DEGAN_Model()
         self.adam = Adam(lr=args.base_lr, beta_1=0.5, beta_2=0.999)
         self.discriminator_global.compile(loss='binary_crossentropy', optimizer=self.adam)
         self.discriminator_patch.compile(loss='binary_crossentropy', optimizer=self.adam)
