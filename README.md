@@ -50,3 +50,9 @@ DE-GAN's model parameters have been put into Baidu web disk.You can download the
 link：https://pan.baidu.com/s/1dxqDb_CVW_OBRwQCfqIECA 
 code：4ini
 
+## Test
+
+````
+python test.py -p image path -s save path
+````
+
